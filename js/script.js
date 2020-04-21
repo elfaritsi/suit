@@ -117,6 +117,8 @@ function kertas1(){
 }
 
 function ulangi(){
+	skorUntukUser = 0;
+	skorUntukLawan = 0;
 	skorUser.innerHTML = 0;
 	skorLawan.innerHTML = 0;
 	text.innerHTML = '';
